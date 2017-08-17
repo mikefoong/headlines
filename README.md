@@ -4,3 +4,5 @@
 - Started the app development
 - added headlines.py
 - create dynamic routing
+- added html templates
+- added jinja templating
